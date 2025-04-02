@@ -1,0 +1,19 @@
+{
+  "name": "atlas",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "source": "index.html",
+  "browserslist": "> 0.25%, not dead"
+}
